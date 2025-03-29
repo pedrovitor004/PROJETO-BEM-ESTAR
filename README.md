@@ -13,7 +13,10 @@ Este é um pequeno sistema desenvolvido em **Java** com **interface gráfica (GU
 - **📦 Geração de executável (.jar)**: Possibilita a execução do sistema em diferentes plataformas.
 
 ## 💻 Tecnologias Utilizadas
-![Java](https://cdn-icons-png.flaticon.com/512/226/226777.png) ![Swing](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/JavaFX_Logo.png/120px-JavaFX_Logo.png) ![MySQL](https://cdn-icons-png.flaticon.com/512/5968/5968313.png)
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="50" height="50">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" width="50" height="50">
+</p>
 
 - **Java** (Programação Orientada a Objetos)
 - **Swing** (Para desenvolvimento da interface gráfica)
@@ -51,7 +54,7 @@ CREATE TABLE usuarios (
 Contribuições são bem-vindas! Caso tenha ideias para melhorias ou correções, fique à vontade para abrir uma **issue** ou enviar um **pull request**.
 
 ## 👩‍💻 Autor
-Projeto desenvolvido por **[Seu Nome]** durante estudos de **Java** e **programação orientada a objetos**.
+Projeto desenvolvido por **[Pedro Vitor]** durante estudos de **Java** e **programação orientada a objetos**.
 
 ## 📜 Licença
 Este projeto está licenciado sob os termos da **MIT License**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
